@@ -1,1 +1,1 @@
-# Created for "Learn Github" course on boot.dev
+Created for "Learn Github" course on boot.dev
